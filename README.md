@@ -1,2 +1,2 @@
-# NLP
-Machine learning R and Python projects using natural language processing.
+# Text Mining
+R and Python projects for text mining. Code here can also be used in later natural language processing scripts.
